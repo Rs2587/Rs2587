@@ -34,7 +34,7 @@ Let's Connect and have a Chat! 💬
 
 # 👨‍💻 About Me
 
-🎓 Final Year B.Tech CSE (Data Science)
+🎓 B.Tech CSE (Data Science)
 
 🤖 Passionate about Artificial Intelligence, Machine Learning, Data Science and Generative AI.
 
@@ -106,51 +106,9 @@ MediaPipe-based virtual clothing application
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rs2587&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rs2587&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Rs2587&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rs2587&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Rs2587&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
-
 # 📫 Reach Me
 
-📧 YOUR_EMAIL@gmail.com
+📧 rpsuryavanshi83@gmail.com
 
 💼 LinkedIn:
 https://www.linkedin.com/in/raj-suryavanshi-2b0676302
