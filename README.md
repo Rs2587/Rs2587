@@ -2,9 +2,9 @@
   <img src="banner.png" width="100%">
 </p>
 
-<h1 align="center">
-Hello! 👋
-</h1>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=38&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+There!+👋;I'm+Rajvardhan+Suryavanshi;AI+%7C+ML+Engineer;Data+Scientist;Python+Developer" />
+</p>
 
 <h2 align="center">
 Let's Connect and have a Chat! 💬
@@ -32,12 +32,27 @@ Let's Connect and have a Chat! 💬
 ## Welcome to my GitHub
 
 I am a Data Scientist and AI Engineer.
-- 🎓 Final Year B.Tech CSE (Data Science)
-- 🤖 AI & Machine Learning Enthusiast
-- 🐍 Python Developer
-- 📊 Data Scientist
-- 🚀 Building AI Projects
+<table>
+<tr>
+<td>
 
+## 👨‍💻 About Me
+
+- 🎓 Final Year Student
+- 🤖 AI Engineer
+- 🐍 Python
+- 📊 Data Science
+
+</td>
+
+<td>
+
+<img width="350" src="YOUR_GIF_LINK">
+
+</td>
+
+</tr>
+</table>
 
 ## 🛠 Skills
 
@@ -59,12 +74,12 @@ I am a Data Scientist and AI Engineer.
 
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rs2587&layout=compact&theme=tokyonight)
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rs2587&theme=tokyonight)
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+![](https://komarev.com/ghpvc/?username=Rs2587)
 
 
 ---
