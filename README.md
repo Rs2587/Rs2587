@@ -111,36 +111,11 @@ MediaPipe-based virtual clothing application
 📧 rpsuryavanshi83@gmail.com
 
 💼 LinkedIn:
-https://www.linkedin.com/in/raj-suryavanshi-2b0676302
+![](https://komarev.com/ghpvc/?username=Rs2587)
 
 ⭐ Thanks for visiting my profile!
 
-## 🛠 Skills
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-
-<img src="https://skillicons.dev/icons?i=pytorch"/>
-
-<img src="https://skillicons.dev/icons?i=opencv"/>
-
-<img src="https://skillicons.dev/icons?i=flask"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-</p>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rs2587&layout=compact&theme=tokyonight)
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rs2587&theme=tokyonight)
-
-![](https://komarev.com/ghpvc/?username=Rs2587)
 
 
 ---
