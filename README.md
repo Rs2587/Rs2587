@@ -29,8 +29,9 @@ Let's Connect and have a Chat! 💬
 
 <hr>
 
-## 👨‍💻 About Me
+## Welcome to my GitHub
 
+I am a Data Scientist and AI Engineer.
 - 🎓 Final Year B.Tech CSE (Data Science)
 - 🤖 AI & Machine Learning Enthusiast
 - 🐍 Python Developer
@@ -65,13 +66,6 @@ Let's Connect and have a Chat! 💬
 
 ![](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
 
-
-
-# Hello! 👋
-
-## Welcome to my GitHub
-
-I am a Data Scientist and AI Engineer.
 
 ---
 
