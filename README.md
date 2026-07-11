@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Rajvardhan%20Suryavanshi&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Rajvardhan%20Suryavanshi&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%">
 </p>
 
 <!-- Typing Animation -->
