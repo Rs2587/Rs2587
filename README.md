@@ -40,13 +40,6 @@ Let's Connect and have a Chat! 💬
 
 🚀 Building AI-powered applications using Python, TensorFlow, PyTorch, OpenCV, Flask and FastAPI.
 
-📚 Currently learning:
-- Deep Learning
-- Large Language Models (LLMs)
-- RAG
-- MLOps
-- Data Engineering
-
 ---
 
 # 🛠 Tech Stack
@@ -111,18 +104,12 @@ MediaPipe-based virtual clothing application
 📧 rpsuryavanshi83@gmail.com
 
 💼 LinkedIn:
-![](https://komarev.com/ghpvc/?username=Rs2587)
+<a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/raj-suryavanshi-2b0676302)">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
 
 ⭐ Thanks for visiting my profile!
 
 
 
-
----
-
-## 🌐 Connect with me
-
-<a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/raj-suryavanshi-2b0676302)">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
 
