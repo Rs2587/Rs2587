@@ -1,58 +1,161 @@
+<!-- Banner -->
 <p align="center">
-  <img src="banner.png" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Rajvardhan%20Suryavanshi&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%">
 </p>
 
+<!-- Typing Animation -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=38&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+There!+👋;I'm+Rajvardhan+Suryavanshi;AI+%7C+ML+Engineer;Data+Scientist;Python+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+There!+👋;I'm+Rajvardhan+Suryavanshi;AI+%7C+ML+Engineer;Data+Scientist;Python+Developer;Welcome+to+my+GitHub!" />
 </p>
 
 <h2 align="center">
 Let's Connect and have a Chat! 💬
 </h2>
 
-
 <p align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINK">
+<a href="https://www.linkedin.com/in/raj-suryavanshi-2b0676302">
 <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
-<a href="https://twitter.com/YOUR_LINK">
+<a href="https://twitter.com/YOUR_TWITTER">
 <img src="https://skillicons.dev/icons?i=twitter" width="55"/>
 </a>
 
-<a href="https://instagram.com/YOUR_LINK">
+<a href="https://instagram.com/YOUR_INSTAGRAM">
 <img src="https://skillicons.dev/icons?i=instagram" width="55"/>
 </a>
 
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+</a>
 </p>
 
-<hr>
+---
 
-## Welcome to my GitHub
+# 👨‍💻 About Me
 
-I am a Data Scientist and AI Engineer.
-<table>
-<tr>
-<td>
+🎓 Final Year B.Tech CSE (Data Science)
 
-## 👨‍💻 About Me
+🤖 Passionate about Artificial Intelligence, Machine Learning, Data Science and Generative AI.
 
-- 🎓 Final Year Student
-- 🤖 AI Engineer
-- 🐍 Python
-- 📊 Data Science
+🚀 Building AI-powered applications using Python, TensorFlow, PyTorch, OpenCV, Flask and FastAPI.
 
-</td>
+📚 Currently learning:
+- Deep Learning
+- Large Language Models (LLMs)
+- RAG
+- MLOps
+- Data Engineering
 
-<td>
+---
 
-<img width="350" src="YOUR_GIF_LINK">
+# 🛠 Tech Stack
 
-</td>
+### Languages
 
-</tr>
-</table>
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=java"/>
+<img src="https://skillicons.dev/icons?i=cpp"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+<img src="https://skillicons.dev/icons?i=opencv"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=flask"/>
+<img src="https://skillicons.dev/icons?i=fastapi"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=vscode"/>
+<img src="https://skillicons.dev/icons?i=docker"/>
+<img src="https://skillicons.dev/icons?i=linux"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 👁 Vision Care
+AI-powered Screen Distance & Focus Monitoring System
+
+### 📄 RAGnosis
+LLM-powered Document Question Answering using RAG
+
+### 🕵 Anonymous Feedback System
+Secure anonymous complaint platform
+
+### 🏥 Crash-Free Appointment Booking System
+Scalable patient booking platform
+
+### 👕 AI Virtual Try-On
+MediaPipe-based virtual clothing application
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rs2587&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rs2587&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Rs2587&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rs2587&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Rs2587&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+# 📫 Reach Me
+
+📧 YOUR_EMAIL@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/raj-suryavanshi-2b0676302
+
+⭐ Thanks for visiting my profile!
 
 ## 🛠 Skills
 
