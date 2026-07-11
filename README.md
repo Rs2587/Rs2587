@@ -1,16 +1,83 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner.png" width="100%">
+</p>
 
-<!--
-**Rs2587/Rs2587** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+Hello! 👋
+</h1>
 
-Here are some ideas to get you started:
+<h2 align="center">
+Let's Connect and have a Chat! 💬
+</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINK">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+</a>
+
+<a href="https://twitter.com/YOUR_LINK">
+<img src="https://skillicons.dev/icons?i=twitter" width="55"/>
+</a>
+
+<a href="https://instagram.com/YOUR_LINK">
+<img src="https://skillicons.dev/icons?i=instagram" width="55"/>
+</a>
+
+</p>
+
+<hr>
+
+## 👨‍💻 About Me
+
+- 🎓 Final Year B.Tech CSE (Data Science)
+- 🤖 AI & Machine Learning Enthusiast
+- 🐍 Python Developer
+- 📊 Data Scientist
+- 🚀 Building AI Projects
+
+
+## 🛠 Skills
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+
+<img src="https://skillicons.dev/icons?i=opencv"/>
+
+<img src="https://skillicons.dev/icons?i=flask"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+
+
+
+# Hello! 👋
+
+## Welcome to my GitHub
+
+I am a Data Scientist and AI Engineer.
+
+---
+
+## 🌐 Connect with me
+
+<a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/raj-suryavanshi-2b0676302)">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
